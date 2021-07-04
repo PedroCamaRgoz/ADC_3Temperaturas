@@ -1,0 +1,1 @@
+# ADC_3Temperaturas
